@@ -1,1 +1,2 @@
 # odin-landing-page
+This is the second project we are going to build in The Odin Project curriculum. Here we are trying to use our flexbox knowlegde to check how to align the website according to the given pictures in the assignment. Let's start!
